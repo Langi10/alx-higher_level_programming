@@ -1,12 +1,5 @@
 0x0F. Python - Object-relational mapping PythonOOPSQLMySQLORMSQLAlchemy
 
-By: Guillaume
-Weight: 1
-Project will start Mar 16, 2023 6:00 AM, must end by Mar 20, 2023 6:00 AM
-Checker will be released at Mar 17, 2023 6:00 AM
-An auto review will be launched at the deadline
-Before you start…
-
 Please make sure your MySQL server is in 8.0 -> How to install MySQL 8.0 in Ubuntu 20.04 Background Context
 
 In this project, you will link two amazing worlds: Databases and Python!
